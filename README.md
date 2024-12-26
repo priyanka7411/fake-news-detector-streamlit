@@ -42,6 +42,11 @@ NumPy
 Joblib
 All dependencies are listed in requirements.txt.
 
+
+
+### Dataset
+Download the data set from (https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
+
 ### Contributing
 If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Contributions are always welcome!
 
